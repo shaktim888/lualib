@@ -1,0 +1,6 @@
+framework module lualib {
+  umbrella header "lualib.h"
+
+  export *
+  module * { export * }
+}

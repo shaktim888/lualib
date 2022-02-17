@@ -1,0 +1,15 @@
+//
+//  PrefixHeader.pch
+//  DynamicOC
+//
+//  Created by admin on 2019/10/15.
+//  Copyright © 2019 dKingbin. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#include "yy_redefine.h"
+#include "ast_redefine.h"
+
+#endif /* PrefixHeader_pch */

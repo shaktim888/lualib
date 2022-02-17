@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "prototypeNewIndexHandler:LSCExportsTypeManager.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "ptr">
+            </PersistentString>
+            <PersistentString
+               value = "propertyNameValue">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "+[OCTools testForCGPoint:]:OCTools.m">
+      </ContextState>
+      <ContextState
+         contextName = "+[LSCExportTypeDescriptor invokeMethod:caller:invocation:arguments:]:LSCExportTypeDescriptor.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "(UIEdgeInsets*)ret">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__91-[LSCExportsTypeManager _instancePropertyWithSession:instance:typeDescriptor:propertyName:]_block_invoke:LSCExportsTypeManager.m">
+      </ContextState>
+      <ContextState
+         contextName = "+[OCTools callBlock:args:]:OCTools.m">
+      </ContextState>
+      <ContextState
+         contextName = "__44-[LSCExportsTypeManager _exportsType:state:]_block_invoke:LSCExportsTypeManager.m">
+      </ContextState>
+      <ContextState
+         contextName = "JPBlockInterpreter:OCBlockWrapper.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "typeEncoding[0]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[LSCExportsTypeManager _exportsType:state:]:LSCExportsTypeManager.m">
+      </ContextState>
+      <ContextState
+         contextName = "instanceMethodRouteHandler:LSCExportsTypeManager.m">
+      </ContextState>
+      <ContextState
+         contextName = "__48-[LSCDataExchanger valueByStackIndex:withState:]_block_invoke:LSCDataExchanger.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "selectorMethod:LSCExportsTypeManager.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "slf">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "+[OCTools callBlock:typeNames:args:]:OCTools.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[LSCExportTypeDescriptor _methodWithName:arguments:isStatic:]:LSCExportTypeDescriptor.m">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

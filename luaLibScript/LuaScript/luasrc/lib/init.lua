@@ -1,0 +1,5 @@
+require("lib.base.functions")
+require("lib.base.struct")
+require("lib.base.oclib")
+require("lib.base.enum")
+require("lib.base.global")

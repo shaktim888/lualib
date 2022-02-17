@@ -1,0 +1,16 @@
+PODS:
+  - lualibPod (0.1.0)
+
+DEPENDENCIES:
+  - lualibPod (from `../`)
+
+EXTERNAL SOURCES:
+  lualibPod:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  lualibPod: a9e2f191f961932602a77ad5ae8bde5d2bb706d4
+
+PODFILE CHECKSUM: 8fb728f68224fe72ec803bd4ca472a790da2efce
+
+COCOAPODS: 1.8.4

@@ -1,0 +1,40 @@
+{
+  "name": "lualibPod",
+  "version": "0.1.0",
+  "summary": "A short description of lualibPod.",
+  "ios": {
+    "vendored_frameworks": "framework/*.framework"
+  },
+  "resources": [
+    "res/*.*"
+  ],
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/admin/lualibPod",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "admin": "admin30399@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/admin/lualibPod.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "lualibPod/Classes/**/*",
+  "xcconfig": {
+    "ENABLE_BITCODE": "NO",
+    "STRIP_PNG_TEXT": "NO",
+    "COMPRESS_PNG_FILES": "NO",
+    "OTHER_LDFLAGS": "$(inherited)",
+    "HEADER_SEARCH_PATHS": "$(inherited)",
+    "LIBRARY_SEARCH_PATHS": "$(inherited)"
+  },
+  "frameworks": [
+    "UIKit",
+    "Foundation"
+  ]
+}

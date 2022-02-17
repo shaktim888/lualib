@@ -1,0 +1,11 @@
+#ifndef OCCfuntionHelper
+#define OCCfuntionHelper OBawlWhatever
+#endif
+#ifndef defineCFunction
+#define defineCFunction putUsedInclude
+#endif
+
+
+[OCCfuntionHelper defineCFunction:@"NSSelectorFromString" types:@"SEL,NSString *"];
+SEL a = NSSelectorFromString(@"fff:");
+

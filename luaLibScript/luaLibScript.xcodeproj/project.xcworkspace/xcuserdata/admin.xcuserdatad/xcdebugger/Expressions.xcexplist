@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "JPBlockInterpreter:OCBlockWrapper.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "(UIEdgeInsets *)ret">
+            </PersistentString>
+            <PersistentString
+               value = "(UIEdgeInsets *)structRet">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[LSCExportTypeDescriptor invokeMethod:caller:invocation:arguments:]:LSCExportTypeDescriptor.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "(UIEdgeInsets *)ret">
+            </PersistentString>
+            <PersistentString
+               value = "block">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "+[OCTools callBlock:typeNames:args:]:OCTools.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "block">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

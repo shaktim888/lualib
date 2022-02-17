@@ -1,0 +1,6 @@
+framework module lualibPod {
+  umbrella header "lualibPod-umbrella.h"
+
+  export *
+  module * { export * }
+}

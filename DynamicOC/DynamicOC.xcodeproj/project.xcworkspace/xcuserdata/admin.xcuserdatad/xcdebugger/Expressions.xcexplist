@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "__BlockSignature__:OCBlockWrapper.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "descriptor-&gt;signature">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "+[ASTCallMethod invokeWithInvocation:argments:]:ASTCallMethod.m">
+      </ContextState>
+      <ContextState
+         contextName = "JPBlockInterpreter:OCBlockWrapper.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[ASTBlockNode handleBlock]:ASTBlockNode.m">
+      </ContextState>
+      <ContextState
+         contextName = "__64+[DynamicOC hookClass:selector:argNames:isClass:implementation:]_block_invoke:DynamicOC.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "class">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
